@@ -1,8 +1,8 @@
-# Welcome to Breezy's Blog
+# Welcome to Breezy's Book Blog
 
 ## Here I'll be able to discuss my favorite hobby, READING! My favorite books of all time were written by the stunningly talented, Sarah J. Maas. She currently has 2 series published and millions of fans.
 
-### Sarah's first series, THRONE OF GLASS, is my absolute all time favorite. The books include
+### Sarah's first series, THRONE OF GLASS, is my absolute all time favorite. The installment includes:
   - The Assassian's Blade
   - Throne of Glass
   - Crown of Midnight
@@ -19,5 +19,5 @@
   - A Court of Frost and Starlight
   
 ### Because of Sarah's wide fan base, artist from all over the world have taken interest in depicting scenes from her beloved books, and here is some of their stunning work...
-
+    - ![](src)
   
