@@ -1,12 +1,16 @@
 # Welcome to Breezy's Blog
 
-## Here I'l be able to discuss my favorite topics: books, traveling, and Pintrest inspiration! 
+## Here I'll be able to discuss my favorite topics: Books, Traveling, and Pintrest Inspiration! 
 
-### Favorite Authors:
--Sarah J. Maas
--Jennifer L. Armentrout
+### Favorite Books:
+  - Throne of Glass by Sarah J. Maas
+  - Jennifer L. Armentrout
 
 ### Favorite Destinations:
--The Beach
-
+  - The Beach
+  - Las Vegas
+  
 ### Pintrest Inspiration:
+  - Clothes
+  - Shoes
+  - Make Up
